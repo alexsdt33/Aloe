@@ -1,7 +1,7 @@
 aleo smart contract
 
 
-Ù†ØµØ¨ Ù¾ÛŒØ´ Ù†ÛŒØ§Ø²Ù‡Ø§ 
+Start 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
