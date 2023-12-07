@@ -28,7 +28,7 @@ cd snarkOS
 cargo install --path .
 
 
-ØªÙˆÛŒÛŒØª Ø¨Ø±Ø§ÛŒ ÙØ§Ø³Øª
+star
 ------------------------------------------------------------------
 
 @AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vhpj588vnguzqnndumr
