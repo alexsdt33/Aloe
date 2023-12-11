@@ -1,7 +1,4 @@
 aleo smart contract
-
-
-Start 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
@@ -33,7 +30,7 @@ star
 
 @AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vhpj588vnguzqnndumr
 
-Ø¨Ø¹Ø¯ Ø§Ø² Ø¯Ø±ÛŒØ§ÙØª ÙØ§Ø³Øª Ø¨Ù‡ Ù„ÛŒÙ†Ú© Ø²ÛŒØ± Ø¨Ø±ÛŒØ¯ Ùˆ Ø§ÙØ²ÙˆÙ†Ù‡ Ø±Ø§ Ø¨Ù‡ Ù…Ø±ÙˆØ±Ú¯Ø± Ú©Ø±ÙˆÙ… Ø§Ø¶Ø§ÙÙ‡ Ú©Ù†ÛŒØ¯
+Ø¨Ø¹Ø¯ Ø§Ø² Ø¯Ø±ÛŒØ§ÙØª ÙØ§Ø³Øª Ø¨Ù‡ Ù„ÛŒÙ†Ú© Ø²ÛŒØ± 
 
 https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdnipejhlpcmifheolpl
 ------------------------------------------------------------------
