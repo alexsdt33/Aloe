@@ -30,7 +30,7 @@ star
 
 @AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vhpj588vnguzqnndumr
 
-Ø¨Ø¹Ø¯ Ø§Ø² Ø¯Ø±ÛŒØ§ÙØª ÙØ§Ø³Øª Ø¨Ù‡ Ù„ÛŒÙ†Ú© Ø²ÛŒØ± 
+Ø¨Ø¹Ø¯ Ø§Ø² Ø¯Ø±ÛŒØ§ÙØª ÙØ§Ø³Øª Ø¨Ù‡ Ù„ÛŒÙ†Ú©
 
 https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdnipejhlpcmifheolpl
 ------------------------------------------------------------------
