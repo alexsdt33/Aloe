@@ -43,7 +43,7 @@ WALLETADDRESS=""
 
 APPNAME=helloworld_"${WALLETADDRESS:4:6}"
 
-leo new "${APPNAME}"
+leo new drrr "${APPNAME}"
 
 PATHTOAPP=$(realpath -q $APPNAME)
 
