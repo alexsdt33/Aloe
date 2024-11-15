@@ -4,8 +4,6 @@ curl --proto '=https' --tlsv1 -sSf https://sh.rustup.rs | sh
 
 rustup install stable
 
-rustup update stable
-
 rustup default stable
 
 git clone https://github.com/AleoHQ/leo
