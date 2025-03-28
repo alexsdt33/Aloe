@@ -2,7 +2,7 @@ aleo smart contract
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1 -sSf https://sh.rustup.rs | sh
 
-rustup install stabl
+rustup install stable
 9
 
 rustup default stable
